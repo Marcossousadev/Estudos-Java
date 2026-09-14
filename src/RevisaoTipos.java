@@ -1,4 +1,4 @@
-public class ReviaoTipos {
+public class RevisaoTipos {
     public static void main( String[] args ) {
         //revisão tipos primitivos
         // números inteiros
