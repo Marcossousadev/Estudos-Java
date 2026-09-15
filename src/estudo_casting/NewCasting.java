@@ -1,3 +1,5 @@
+package estudo_casting;
+
 public class NewCasting {
     // revisão casting
     public static void main (String[] args) {

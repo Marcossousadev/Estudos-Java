@@ -1,3 +1,5 @@
+package tipos_primitivos;
+
 // quais os tipos primitivos no java
 public class TiposPrimitivos {
 

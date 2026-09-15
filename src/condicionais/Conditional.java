@@ -1,3 +1,5 @@
+package condicionais;
+
 public class Conditional {
     // estudo de conditionais no Java
     public static void main( String[] args) {

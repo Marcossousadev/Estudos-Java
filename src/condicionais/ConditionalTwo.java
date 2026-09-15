@@ -1,3 +1,5 @@
+package condicionais;
+
 public class ConditionalTwo {
     public static void main(String[] args) {
         byte numero = 11;

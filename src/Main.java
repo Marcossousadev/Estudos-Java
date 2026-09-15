@@ -9,7 +9,7 @@ public class Main {
 
 }
 
-class Carro {
+class Moto {
 
 }
 

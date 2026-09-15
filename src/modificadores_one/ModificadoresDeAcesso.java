@@ -1,4 +1,4 @@
-package estudo_java; // não podemos usar hífen "-", underline pode "_";
+package modificadores_one; // não podemos usar hífen "-", underline pode "_";
 // se quero dizer q essa classe tá dentro de uma pasta utils, dentro de outra pasta enums e dentro da pasta redes
 // package.utils.enums.redes; para acessar sub pastas de uma pasta usamos nome_pasta.nome_pasta;
 

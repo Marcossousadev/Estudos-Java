@@ -1,6 +1,6 @@
-package estudo_java.cachorro;
+package modificadores_one.cachorro;
 
-import estudo_java.Animal;
+import modificadores_one.Animal;
 
 // se não passarmos o modificador de acessp public
 // o java aplica o default para a classe

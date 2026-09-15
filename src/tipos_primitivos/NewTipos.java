@@ -1,3 +1,5 @@
+package tipos_primitivos;
+
 public class NewTipos {
     // revisão tipos
     public static void main( String[] args ) {

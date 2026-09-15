@@ -1,10 +1,10 @@
-
+package estudo_casting;
 
 public class Casting {
     // aprendendo oq é casting
     // transformando valores em outro tipo de dado
     // conversão de um tipo de dado para outro tipo
-    public static void main ( String[] args ) {
+    public static void main( String[] args ){
       // "20, 40, 60, 23"
 
         // transformando um número decimal em um inteiro
@@ -16,8 +16,8 @@ public class Casting {
         // casting implicito
         double resultadoDoub = resultado_2; // (double) não é preciso colocar, pois o java pro si proprio já entende que deve expandir ele mesmo
 
-        System.out.println("Casting Int: " + resultadoInt);
-        System.out.println("Casting Double: " + resultadoDoub);
+        System.out.println("Transformando Int: " + resultadoInt);
+        System.out.println("Transformando Double: " + resultadoDoub);
 
 
         // como transformar uma string em um inteiro

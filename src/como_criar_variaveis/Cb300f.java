@@ -1,4 +1,6 @@
-import estudo_java.Animal;
+package como_criar_variaveis;
+
+import modificadores.Carro;
 
 public class Cb300f {
    public static void main( String[] args) {
@@ -12,8 +14,8 @@ public class Cb300f {
 
         //string
         String nome_moto = "Honda Cb Twister 300f";
-     // Animal gato = new Animal("Gato"); // público, ainda consigo acessar de qualquer package
-
+      // Animal gato = new Animal("Gato"); // público, ainda consigo acessar de qualquer package
+        Carro carro1 = new Carro("audi"); // só consigo acessar ela fora do pacote dela, se tiver o modificador de acesso public
         // 2 forma
         /* usamos var, ao darmos o valor, ao qual a variável vai armazenar, ela automaticamente identifica o seu tipo*/
 

@@ -1,4 +1,4 @@
-// uma classe é um modelo que defini a estrutura de nossos objetos, a classe ela é por exenplo um molde de bolo
+package POO;// uma classe é um modelo que defini a estrutura de nossos objetos, a classe ela é por exenplo um molde de bolo
 // A classe é um conjunto de características e comportamentos que definem um grupo de objetos pertencentes a ela.
 // caracterìsticas sendo atributos
 // comportamentos sendo métodos

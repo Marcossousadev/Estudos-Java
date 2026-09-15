@@ -1,3 +1,5 @@
+package como_criar_variaveis;
+
 public class Variables {
     // como declarar variaveis no java
     public static void main (String[] args) {

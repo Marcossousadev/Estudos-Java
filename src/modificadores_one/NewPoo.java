@@ -1,4 +1,4 @@
-package estudo_java;// package util.enums.redes;
+package modificadores_one;// package util.enums.redes;
 // é um paradigma que foi criado para aproximar o modo como lidamos com programas ao modo como interagimos com objetos do mundo real.
 // a programação orientada a objeto é um paradigma que organiza o código de acordo com conceitos de objetos.
 // na POO tudo gira em torno de classe e objeto

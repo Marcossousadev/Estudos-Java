@@ -1,4 +1,4 @@
-package estudo_java;
+package modificadores_one;
 
 
 // se não passarmos o modificador de acessp public

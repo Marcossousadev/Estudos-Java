@@ -1,3 +1,5 @@
+package condicionais;
+
 public class NewConditional {
     // revisão condicionais
     public static void main (String[] args ) {
