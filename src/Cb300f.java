@@ -20,4 +20,3 @@ public class Cb300f {
        var nome_nova_moto = "Honda Twister Cb300f";
     }
 }
-

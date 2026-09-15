@@ -12,3 +12,6 @@ public class Main {
 class Carro {
 
 }
+
+// compilar para bytecode => javac nome_arquivo.java
+// executar bytecode => java nome_arquivo
