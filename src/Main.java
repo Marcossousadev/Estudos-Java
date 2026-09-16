@@ -15,12 +15,22 @@ public class Main {
     public static void main(String[] args){
         // interface Carro
         Carroo meuSandeiro = new Sandeiro();
-        meuSandeiro.acelerar();
+        // nosso sandeiro tem um limite de velocidade
+        for (int i = 0; i != 16; i++) {
+            meuSandeiro.acelerar();
+        }
         meuSandeiro.freiar();
         meuSandeiro.parar();
 
         Carroo meuMobi = new Mobi();
-        meuMobi.acelerar();
+        // nosso mobi não tem limite de velocidade
+        for (int i = 0; i <20; i++) {
+            meuMobi.acelerar();
+        }
+        // aqui vemos como funciona o polimorfismo
+        // classe e métodos que utilizam a mesma assinatura de uma interface
+        // tem lógicas completamente diferentes, o Sandeiro acelera de uma forma completamente diferente do Mobi, e ambos utiliza o mesmo método
+        // isso é polimorfismo
         meuMobi.freiar();
         meuMobi.parar();
 

@@ -20,6 +20,7 @@ Aqui estou praticando os conceitos fundamentais da linguagem e aprendendo, na pr
 * Modificadores de acesso (public, private, protected)
 * Interfaces e classes abstratas
 * Herança e polimorfismo
+* Tratamento de erros
 
 
 A ideia é utilizar este projeto como um registro da minha evolução durante o aprendizado de Java, começando pelos fundamentos e avançando gradualmente para conceitos mais complexos.
