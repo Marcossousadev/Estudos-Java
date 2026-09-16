@@ -16,5 +16,10 @@ Aqui estou praticando os conceitos fundamentais da linguagem e aprendendo, na pr
 * Entrada e saída de dados
 * Conversão de tipos
 * Conceitos básicos da linguagem Java
+* Classe, objetos e método constructor
+* Modificadores de acesso (public, private, protected)
+* Interfaces e classes abstratas
+* Herança e polimorfismo
+
 
 A ideia é utilizar este projeto como um registro da minha evolução durante o aprendizado de Java, começando pelos fundamentos e avançando gradualmente para conceitos mais complexos.
